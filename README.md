@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ayush__paliwal" target="blank"><img src="https://img.shields.io/twitter/follow/ayush__paliwal?logo=twitter&style=for-the-badge" alt="ayush__paliwal" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Website](https://ayushsingh-07.github.io/Web-Development/)
-
 - 🌱 I’m currently learning **Transformers, Deep Learning**
 
 - 👯 I’m looking to collaborate on **GenAI related projects**
